@@ -1,6 +1,7 @@
+<img align="center" alt="coding" width="400" src="https://getwallpapers.com/wallpaper/full/0/8/1/375961.jpg" />
 <h1 align="center">Hi 👋, I'm Nnamdi Henry</h1>
 <h3 align="center">Software Engineering Student @alx_africa,</h3>
-<img align="center" alt="coding" width="400" src="https://getwallpapers.com/wallpaper/full/1/1/7/375057.jpg" />
+<img align="center" alt="coding" width="400" src="https://getwallpapers.com/wallpaper/full/2/0/f/375043.jpg" />
                                                  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henryiyke0x&label=Profile%20views&color=0e75b6&style=flat" alt="henryiyke0x" /> </p>
