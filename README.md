@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nnamdi Henry</h1>
 <h3 align="center">Software Engineering Student @alx_africa,</h3>
+<img align="right" alt="coding" width="400" src="https://www.shutterstock.com/image-vector/program-creating-framebyframe-animation-creation-cartoons-2305109895/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henryiyke0x&label=Profile%20views&color=0e75b6&style=flat" alt="henryiyke0x" /> </p>
 
