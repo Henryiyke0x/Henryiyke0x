@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nnamdi Henry</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">Software Engineering Student @alx_africa,</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henryiyke0x&label=Profile%20views&color=0e75b6&style=flat" alt="henryiyke0x" /> </p>
 
