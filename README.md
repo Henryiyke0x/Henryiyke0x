@@ -1,6 +1,8 @@
 <img align="center" alt="coding" width="400" src="https://getwallpapers.com/wallpaper/full/0/8/1/375961.jpg" />
-<h1 align="center">Hi 👋, I'm Nnamdi Henry</h1>
-<h3 align="center">Software Engineering Student @alx_africa,</h3>
+<h1 align="center">Hi There👋,</h1>
+<h3 align="center"> am a Software Developer... 
+
+🔭 I’m working as a Software Developer and contributing to backend and a software Engineering Student @alx_africa,</h3>
 <img align="center" alt="coding" width="400" src="https://getwallpapers.com/wallpaper/full/2/0/f/375043.jpg" />
                                                  
 
@@ -12,7 +14,7 @@
 
 - 🔭 I’m currently working on **Fortress**
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **django** **golang** 
 
 - 💬 Ask me about **Software Development**
 
