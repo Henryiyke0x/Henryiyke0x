@@ -1,6 +1,6 @@
 <img align="center" alt="coding" width="400" src="https://getwallpapers.com/wallpaper/full/0/8/1/375961.jpg" />
 <h1 align="center">Hi There👋,</h1>
-<h3 align="center"> am a Software Developer... 
+<h3 align="center"> I'm Nnamdi Henry a Software Engineer and a Physics Student.. 
 
 🔭 I’m working as a Software Developer and contributing to backend and a software Engineering Student @alx_africa,</h3>
 <img align="center" alt="coding" width="400" src="https://getwallpapers.com/wallpaper/full/2/0/f/375043.jpg" />
