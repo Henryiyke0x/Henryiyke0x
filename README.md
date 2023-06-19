@@ -1,18 +1,18 @@
-<img align="center" alt="coding" width="400" src="https://getwallpapers.com/wallpaper/full/0/8/1/375961.jpg" />
+<img align="center" alt="coding" width="900" src="https://getwallpapers.com/wallpaper/full/0/8/1/375961.jpg" />
 <h1 align="center">Hi There👋,</h1>
 <h3 align="center"> I'm Nnamdi Henry a Software Engineer and a Physics Student.. 
 
 🔭 I’m working as a Software Developer and contributing to backend and a software Engineering Student @alx_africa,</h3>
-<img align="center" alt="coding" width="400" src="https://getwallpapers.com/wallpaper/full/2/0/f/375043.jpg" />
+<img align="center" alt="coding" width="900" src="https://getwallpapers.com/wallpaper/full/2/0/f/375043.jpg" />
                                                  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=henryiyke0x&label=Profile%20views&color=0e75b6&style=flat" alt="henryiyke0x" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=henryiyke0x&label=Profile%20views&color=0e75b6&style=flat" alt="henryiyke0x" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henryiyke0x" alt="henryiyke0x" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/spacecannon_x" target="blank"><img src="https://img.shields.io/twitter/follow/spacecannon_x?logo=twitter&style=for-the-badge" alt="spacecannon_x" /></a> </p>
 
-- 🔭 I’m currently working on **Fortress**
+- 🔭 I’m currently working on **Fortress Pay**
 
 - 🌱 I’m currently learning **django** **golang** 
 
