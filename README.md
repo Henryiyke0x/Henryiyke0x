@@ -1,11 +1,11 @@
 <img align="center" alt="coding" width="900" src="https://" />
 <h1 align="center">Hi There👋,</h1>
-<h3 align="center"> I'm Henry Nnamdi, Welcome to my corner.. 
+<h3 align="center"> I'm Henry Nnamdi </h3>
 
-🔭 I’m working as a Software Developer and contributing to backend and a software Engineering Student @alx_africa,</h3>
+
 ![image](https://github.com/Henryiyke0x/Henryiyke0x/assets/132775809/cf304545-9e34-4978-bb00-5ed1a738b204)
 
-
+🔭 I’m a Software Engineering Student @alx_africa,</h3>
                                                  
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=henryiyke0x&label=Profile%20views&color=0e75b6&style=flat" alt="henryiyke0x" /> </p>
