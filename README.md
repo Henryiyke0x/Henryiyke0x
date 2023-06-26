@@ -1,7 +1,9 @@
 ![image](https://github.com/Henryiyke0x/Henryiyke0x/assets/132775809/5edb98d1-7e6d-4b01-a4ef-ab2f9fa1c7f0)
 
-<h1 align="center">Hi 👋,  I'm Nnamdi Henry Ikechukwu</h1>
-<h3 align="center">A Passionate Software Engineer</h3>
+<h1 align="center">Hi 👋,  I'm Nnamdi Henry Ikechukwu. </h1>
+<h3 align="center"><b>A Passionate Software Engineer</b></h3>
+<br>
+</br>
 
 
 ![image](https://github.com/Henryiyke0x/Henryiyke0x/assets/132775809/cf304545-9e34-4978-bb00-5ed1a738b204)
