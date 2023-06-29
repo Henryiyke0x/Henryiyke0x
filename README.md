@@ -2,9 +2,10 @@
 
 
 <h1 align="center">Hi 👋,  I'm Nnamdi Henry Ikechukwu. </h1>
-<h3 align="center"><b>A Passionate Software Engineer</b></h3>
+<h3 align="center"><b>A Passionate Software Engineer ❤️</b></h3>
 <h3 align="center"><b>🔭 I’m a Software Engineering Student @alx_africa.</b></h3>
-<h3 align="center"><b>🔭 Focused majorly on the server-side.</b></h3>
+<h3 align="center"><b>🔭 Focused majorly on the server-side.</b></h3
+
 <br>
 </br>
 
