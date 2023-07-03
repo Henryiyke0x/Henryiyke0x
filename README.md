@@ -2,12 +2,9 @@
 
 
 <h1 align="center">Hi 👋,  I'm Nnamdi Henry Ikechukwu. </h1>
-<h3 align="center"><b>A Passionate Software Engineer ❤️</b></h3>
+<h3 align="center"><b>A Passionate Software Engineer.</b></h3>
 <h3 align="center"><b>🔭 I’m a Software Engineering Student @alx_africa.</b></h3>
-<h3 align="center"><b>🔭 Focused majorly on the server-side.</b></h3
 
-<br>
-</br>
 
 
 ![image](https://github.com/Henryiyke0x/Henryiyke0x/assets/132775809/cf304545-9e34-4978-bb00-5ed1a738b204)
