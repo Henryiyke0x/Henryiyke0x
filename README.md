@@ -10,14 +10,6 @@
 
 <p align="left"> <a href="https://twitter.com/spacecannon_x" target="blank"><img src="https://img.shields.io/twitter/follow/spacecannon_x?logo=twitter&style=for-the-badge" alt="spacecannon_x" /></a> </p>
 
-- 🔭 I’m currently working on **Fortress Pay**
-
-- 🌱 I’m currently learning **django** **golang** 
-
-- 💬 Ask me about **Software Development**
-
-- 📫 How to reach me **Henryiyke24@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/spacecannon_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spacecannon_x" height="30" width="40" /></a>
