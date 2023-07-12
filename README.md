@@ -3,6 +3,7 @@
 
 ```ts
 const name = 'Nnamdi Henry';
+const occupation = 'Student';
 
 console.log(name);
 
