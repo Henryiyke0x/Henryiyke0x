@@ -6,6 +6,13 @@
 
 console.log(name);
 
+while(dev.isCoding())
+{
+   dev.listenToMusic();
+   dev.openStackOverFlow();
+   dev.drinkCoffee();
+}
+
 ```
 
 
