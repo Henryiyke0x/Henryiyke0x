@@ -1,18 +1,19 @@
 
 ![image](https://github.com/Henryiyke0x/Henryiyke0x/assets/132775809/cf304545-9e34-4978-bb00-5ed1a738b204)
 
-
+# About-Me
 Hi 👋I'm Henry Nnamdi Ikechukwu (Henryiyke0x),
 👨‍💻 A Backend Developer | Crafting Digital Magic ✨ | Building Scalable Solutions 🚀
 🌟 Passionate about turning ideas into efficient, robust, and scalable backend systems.
 
+# Tech-Stack:
 Backend: Python, Go lang, C.
 Frontend: HTML, CSS, JavaScript.
 Database: MySQL, PostgreSQL.
 Version Control: Git.
 APIs: FastAPI, RESTFUL APIs.
 Tools: VS Code, Docker, Postman.
-                                                 
+# Recent-Article:                                              
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=henryiyke0x&label=Profile%20views&color=0e75b6&style=flat" alt="henryiyke0x" /> </p>
 
