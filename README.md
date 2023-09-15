@@ -2,18 +2,16 @@
 ![image](https://github.com/Henryiyke0x/Henryiyke0x/assets/132775809/cf304545-9e34-4978-bb00-5ed1a738b204)
 
 
-#Hi 👋I'm Henry Nnamdi Ikechukwu (Henryiyke0x),
+Hi 👋I'm Henry Nnamdi Ikechukwu (Henryiyke0x),
 👨‍💻 A Backend Developer | Crafting Digital Magic ✨ | Building Scalable Solutions 🚀
 🌟 Passionate about turning ideas into efficient, robust, and scalable backend systems.
-🚀 Experienced in designing and implementing RESTful APIs, Fast APIs and database architectures.
-💡 Constantly exploring new technologies and best practices to keep code clean and efficient.
-🛠️ Proficient in Python, Go, and SQL, with a knack for problem-solving.
-📈 Committed to optimizing performance and ensuring data security.
-🔧 Love automating tasks to streamline development processes.
-🌐 Believer in the power of teamwork and collaboration.
 
-Let's build the future together, one line of code at a time! 💻🌌 
-Currently looking for an internship role..
+Backend: Python, Go lang, C.
+Frontend: HTML, CSS, JavaScript.
+Database: MySQL, PostgreSQL.
+Version Control: Git.
+APIs: FastAPI, RESTFUL APIs.
+Tools: VS Code, Docker, Postman.
                                                  
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=henryiyke0x&label=Profile%20views&color=0e75b6&style=flat" alt="henryiyke0x" /> </p>
