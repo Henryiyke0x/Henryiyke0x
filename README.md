@@ -13,8 +13,8 @@ Database: MySQL, PostgreSQL.
 Version Control: Git.
 APIs: FastAPI, RESTFUL APIs.
 Tools: VS Code, Docker, Postman.
-# Recent-Article:                                              
-
+# Recent-Article:  
+https://henrynnamdi.hashnode.dev/
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=henryiyke0x&label=Profile%20views&color=0e75b6&style=flat" alt="henryiyke0x" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henryiyke0x" alt="henryiyke0x" /></a> </p>
