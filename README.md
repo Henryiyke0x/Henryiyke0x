@@ -2,7 +2,7 @@
 ![image](https://github.com/Henryiyke0x/Henryiyke0x/assets/132775809/cf304545-9e34-4978-bb00-5ed1a738b204)
 
 
-👋I'm Henry Nnamdi (Henryiyke0x), a software developer with passion on working on the server side.
+Hi 👋I'm Henry Nnamdi (Henryiyke0x), a software developer with passion on working on the server side.
 
 
                                                  
