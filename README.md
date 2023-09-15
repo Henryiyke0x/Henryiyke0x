@@ -2,8 +2,8 @@
 ![image](https://github.com/Henryiyke0x/Henryiyke0x/assets/132775809/cf304545-9e34-4978-bb00-5ed1a738b204)
 
 
-Hi 👋I'm Henry Nnamdi (Henryiyke0x),
-👨‍💻 Backend Developer | Crafting Digital Magic ✨ | Building Scalable Solutions 🚀
+Hi 👋I'm Henry Nnamdi Ikechukwu (Henryiyke0x),
+👨‍💻A Backend Developer | Crafting Digital Magic ✨ | Building Scalable Solutions 🚀
 
 🌟 Passionate about turning ideas into efficient, robust, and scalable backend systems.
 🚀 Experienced in designing and implementing RESTful APIs, Fast APIs and database architectures.
