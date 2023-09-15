@@ -3,8 +3,7 @@
 
 
 Hi 👋I'm Henry Nnamdi Ikechukwu (Henryiyke0x),
-👨‍💻A Backend Developer | Crafting Digital Magic ✨ | Building Scalable Solutions 🚀
-
+👨‍💻 A Backend Developer | Crafting Digital Magic ✨ | Building Scalable Solutions 🚀
 🌟 Passionate about turning ideas into efficient, robust, and scalable backend systems.
 🚀 Experienced in designing and implementing RESTful APIs, Fast APIs and database architectures.
 💡 Constantly exploring new technologies and best practices to keep code clean and efficient.
