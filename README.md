@@ -2,13 +2,12 @@
 ![image](https://github.com/Henryiyke0x/Henryiyke0x/assets/132775809/cf304545-9e34-4978-bb00-5ed1a738b204)
 
 # About-Me
-Hi 👋I'm Henry Nnamdi Ikechukwu (Henryiyke0x).
-👨‍💻 A Backend Developer Passionate about turning ideas into efficient, robust, and scalable backend systems.
-
-Also a gamer, Basketball player, Music Lover & Football fan
+Hi👋, I'm Henry Nnamdi Ikechukwu.  PKA (Henryiyke0x).
+👨‍💻 A Backend Developer Passionate about turning ideas into efficient, robust, and scalable backend systems. Also exploring the Game development Eco-system.
+Also a Basketball player, Music Lover & Football fan
 
 # Tech-Stack:
-Backend: Python, Go lang, C.
+Backend: Python, Go lang, C#, C.
 
 Frontend: HTML, CSS, JavaScript.
 
