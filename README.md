@@ -2,7 +2,7 @@
 
 # About-Me:
 Hi👋, I'm Henry Nnamdi Ikechukwu.  (Henryiyke0x).
-👨‍💻 An aspiring software Engineer, Passionate about turning ideas into efficient, robust, and scalable backend systems. Also exploring the Game development Eco-system. And my other hobbies includes playing Basketball and Sleeping.
+👨‍💻 An aspiring software Engineer, Passionate about turning ideas into efficient, robust, and scalable backend systems. Also exploring the Game development Eco-system. And my other hobbies includes playing Basketball and Sleeping..
 
 # Tech-Stack:
 Backend: Python, Go lang, C#, C.
