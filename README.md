@@ -1,10 +1,10 @@
 ![image](https://github.com/Henryiyke0x/Henryiyke0x/assets/132775809/cf304545-9e34-4978-bb00-5ed1a738b204)
 
-# About-Me:
+## About-Me:
 Hi👋, I'm Henry Nnamdi Ikechukwu.  (Henryiyke0x).
 👨‍💻 An aspiring software Engineer, Passionate about turning ideas into efficient, robust, and scalable backend systems. Also exploring the Game development Eco-system. And my other hobbies includes playing Basketball and Sleeping.
 
-# Tech-Stack:
+## Tech-Stack:
 Backend: Python, Go lang, C#, C.
 
 Frontend: HTML, CSS, JavaScript.
@@ -17,7 +17,7 @@ APIs: FastAPI, RESTFUL APIs.
 
 Tools: VS Code, Docker, Postman.
 
-# Recent-Article:  
+## Recent-Article:  
 Access all my articles on: https://henrynnamdi.hashnode.dev/
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=henryiyke0x&label=Profile%20views&color=0e75b6&style=flat" alt="henryiyke0x" /> </p>
 
