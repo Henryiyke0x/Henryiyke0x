@@ -3,7 +3,7 @@
 ## About-Me:
 Hi👋, I'm Henry Nnamdi Ikechukwu.  (Henryiyke0x). Here's my only Portfolio for the main time.
 
-👨‍💻 I'm An aspiring software Engineer, Passionate about turning ideas into efficient, robust, and scalable backend systems.
+👨‍💻 I'm An aspiring software Engineer trying to become a geek someday mostly Passionate about turning ideas into efficient, robust, and scalable backend systems.
 
 I am currently building @Ocean-db with my friends so i learn more about software engineering and intelligent systems. check it out :)
 
