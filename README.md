@@ -9,7 +9,7 @@ I am currently building @Ocean-db with my friends so i learn more about software
 
 I share my progress and dump my thoughts through my tweets
 
-I'm also exploring the Game development Eco-system. And my other hobbies includes watching Anime, playing Basketball and Sleeping.
+I'm also exploring the Game development Eco-system. And my other hobbies includes watching Anime, playing Basketball and Sleeping
 
 ## Tech-Stack:
 Backend: Python, Go lang, C#, C.
