@@ -22,7 +22,7 @@ Version Control: Git.
 
 APIs: FastAPI, RESTFUL APIs.
 
-Tools: VS Code, Docker, Postman.
+Tools: VS Code, Vim, Docker, Postman.
 
 ## Recent-Article:  
 Access all my articles on: https://henrynnamdi.hashnode.dev/
