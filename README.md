@@ -44,5 +44,5 @@ Access all my articles on: https://henrynnamdi.hashnode.dev/
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henryiyke0x&show_icons=true&locale=en" alt="henryiyke0x" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henryiyke0x&" alt="henryiyke0x" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henryiyke0x&" alt="henryiyke0x" /></p> 
 
