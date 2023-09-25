@@ -1,7 +1,7 @@
 ![image](https://github.com/Henryiyke0x/Henryiyke0x/assets/132775809/cf304545-9e34-4978-bb00-5ed1a738b204)
 
 ## About-Me:
-Hi👋, I'm Henry Nnamdi Ikechukwu.  (Henryiyke0x). Here's my only Portfolio for the main time..
+Hi👋, I'm Henry Nnamdi Ikechukwu  (Henryiyke0x). Here's my only Portfolio for the main time.
 
 👨‍💻 I'm An aspiring software Engineer trying to become a geek someday. I'm mostly Passionate about turning ideas into efficient, robust, and scalable backend systems.
 
