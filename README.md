@@ -4,7 +4,7 @@
 Hi👋, I'm Henry Nnamdi Ikechukwu  (Henryiyke0x). Here's my only Portfolio for the main time.
 
 ## Tech-Stack:
-Backend: Python, Go lang, C#, C.
+Backend: Python, Go lang.
 
 Frontend: HTML, CSS, JavaScript.
 
