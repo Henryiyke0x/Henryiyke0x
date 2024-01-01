@@ -3,14 +3,6 @@
 ## About-Me:
 Hi👋, I'm Henry Nnamdi Ikechukwu  (Henryiyke0x). Here's my only Portfolio for the main time.
 
-👨‍💻 I'm An aspiring software Engineer trying to become a geek someday. I'm mostly Passionate about turning ideas into efficient, robust, and scalable backend systems..
-
-I am currently building @Ocean-db with my friends so i learn more about software engineering and intelligent systems. check it out :)
-
-I share my progress and dump my thoughts through my tweets
-
-I'm also exploring the Game development Eco-system. And my other hobbies includes watching Anime, playing Basketball and Sleeping
-
 ## Tech-Stack:
 Backend: Python, Go lang, C#, C.
 
