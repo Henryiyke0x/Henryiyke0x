@@ -4,11 +4,11 @@
 Hi👋, I'm Henry Nnamdi Ikechukwu  (Henryiyke0x). Here's my only Portfolio for the main time.
 
 ## Tech-Stack:
-Backend: Python, Go lang.
+Backend: Python, Go, Node js (Express).
 
 Frontend: HTML, CSS, JavaScript.
 
-Database: MySQL, PostgreSQL.
+Database: MongpDB, PostgreSQL.
 
 Version Control: Git.
 
