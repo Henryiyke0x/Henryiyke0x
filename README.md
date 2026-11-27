@@ -8,7 +8,7 @@ Backend: Python, Go, Node js (Express).
 
 Frontend: HTML, CSS, JavaScript.
 
-Database: MongpDB, PostgreSQL.
+Database: MongoDB, PostgreSQL.
 
 Version Control: Git.
 
